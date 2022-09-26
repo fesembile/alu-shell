@@ -1,5 +1,0 @@
-#!/bin/bash
-for file in /home/alu-shell/basics/*
-do
-echo "#!/bin/bash" > {file}
-done
