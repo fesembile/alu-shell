@@ -2,5 +2,5 @@
 #Displays select part of the file names
 for i in *
 do
-    echo "$i" | cut -f 2- -d '-'
-done
+	    echo "$i" | cut -f 2- -d '-'
+    done
